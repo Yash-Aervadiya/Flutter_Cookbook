@@ -1,0 +1,4 @@
+#Tue Aug 06 15:22:56 IST 2019
+base.0=/home/drdeath/YASH/Weapons/cookbook app/flutter_cookbook/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
